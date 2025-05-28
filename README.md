@@ -1,6 +1,3 @@
-# Unlocking-Equipment-Reliability
-This project demonstrates how data-driven reliability engineering can significantly reduce equipment failures and optimize maintenance interventions. 
-
 # Unlocking Equipment Reliability: MTTR & MTBF Analytics for Failure Reduction
 
 This project demonstrates how data-driven reliability engineering can significantly reduce equipment failures and optimize maintenance interventions. Using simulated downtime and failure logs, we analyze **Mean Time To Repair (MTTR)** and **Mean Time Between Failures (MTBF)** to uncover hidden patterns, chronic issues, and improvement opportunities.
