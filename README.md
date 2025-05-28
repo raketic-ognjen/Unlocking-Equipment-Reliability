@@ -19,19 +19,19 @@ This project demonstrates how data-driven reliability engineering can significan
 ## 📂 Project Structure
 
 - `/data/failure_log.xlsx`  
-  Simulated dataset with equipment failures, timestamps, durations, and root causes.
+  Simulated dataset with equipment failures, timestamps, durations, and root causes. Will be added soon
 
 - `/analysis/mttr_mtbf_calc.xlsx`  
-  MTTR & MTBF calculation sheet with formulas and dynamic tables for easy reuse.
+  MTTR & MTBF calculation sheet with formulas and dynamic tables for easy reuse. Will be added soon
 
 - `/visuals/pareto_chart.png`  
-  Pareto analysis of top failure causes, generated from real-case failure distribution.
+  Pareto analysis of top failure causes, generated from real-case failure distribution. Will be added soon
 
 - `/visuals/reliability_dashboard.png`  
-  Dashboard mockup showing MTTR/MTBF trends, downtime history, and KPIs.
+  Dashboard mockup showing MTTR/MTBF trends, downtime history, and KPIs. Will be added soon
 
-- `/docs/failure_reduction_strategy.pdf`  
-  Structured improvement proposal based on analytical findings and RCM principles.
+- `/docs/failure_reduction_strategy.pdf`   
+  Structured improvement proposal based on analytical findings and RCM principles. Will be added soon
 
 ---
 
